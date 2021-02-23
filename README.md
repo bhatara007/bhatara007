@@ -3,6 +3,13 @@
 <!--
 **bhatara007/bhatara007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+📈 My GitHub Stats
+  
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatara007&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=bhatara007&theme=tokyonight&show_icons=true&count_private=true&) 
+  
+<hr>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
