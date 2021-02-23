@@ -7,13 +7,14 @@
 
 
   
-Here are some ideas to get you started:
-
+<hr>
+ 
 📈 My GitHub Stats
-  sdfdfsdf
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatara007&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=bhatara007&theme=tokyonight&show_icons=true&count_private=true&) 
   
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=noboomta&layout=compact&theme=tokyonight&langs_count=10&hide=CMake,Makefile)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=noboomta&theme=tokyonight&show_icons=true&count_private=true&) 
+  
+<hr>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
